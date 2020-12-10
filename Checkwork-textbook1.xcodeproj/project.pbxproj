@@ -15,6 +15,7 @@
 		2C066E3B2581EA140015DAA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C066E392581EA140015DAA1 /* LaunchScreen.storyboard */; };
 		2C066E462581EA140015DAA1 /* Checkwork_textbook1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C066E452581EA140015DAA1 /* Checkwork_textbook1Tests.swift */; };
 		2C066E512581EA140015DAA1 /* Checkwork_textbook1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C066E502581EA140015DAA1 /* Checkwork_textbook1UITests.swift */; };
+		2C066E682581F5220015DAA1 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C066E672581F5220015DAA1 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2C066E4C2581EA140015DAA1 /* Checkwork-textbook1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Checkwork-textbook1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C066E502581EA140015DAA1 /* Checkwork_textbook1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checkwork_textbook1UITests.swift; sourceTree = "<group>"; };
 		2C066E522581EA140015DAA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C066E672581F5220015DAA1 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				2C066E2E2581EA100015DAA1 /* AppDelegate.swift */,
 				2C066E302581EA100015DAA1 /* SceneDelegate.swift */,
 				2C066E322581EA100015DAA1 /* ViewController.swift */,
+				2C066E672581F5220015DAA1 /* ResultViewController.swift */,
 				2C066E342581EA100015DAA1 /* Main.storyboard */,
 				2C066E372581EA140015DAA1 /* Assets.xcassets */,
 				2C066E392581EA140015DAA1 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				2C066E332581EA100015DAA1 /* ViewController.swift in Sources */,
 				2C066E2F2581EA100015DAA1 /* AppDelegate.swift in Sources */,
 				2C066E312581EA100015DAA1 /* SceneDelegate.swift in Sources */,
+				2C066E682581F5220015DAA1 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
